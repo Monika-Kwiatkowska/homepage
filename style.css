@@ -1,0 +1,16 @@
+body {
+    background-color: #fefefe;
+}
+
+h2 {
+    color: #1460AA;
+}
+
+.header-link {
+    color: grey;
+}
+
+.section-photo {
+    height: 90px;
+    width: auto;
+}
